@@ -241,7 +241,7 @@ This project showcases core SQL skills by building a retail sales database, clea
 
 ## Question Screenshots
 
-![Question 1](screenshotsq1.png)
+![Question 1](Screenshotsq1.png)
 ![Question 2](screenshotsq2.png)
 ![Question 3](screenshotsq3.png)
 ![Question 4](screenshotsq4.png)
@@ -258,6 +258,7 @@ This project showcases core SQL skills by building a retail sales database, clea
 
 
 Thank you
+
 
 
 
