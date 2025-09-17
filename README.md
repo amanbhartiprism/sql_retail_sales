@@ -244,12 +244,12 @@ This project showcases core SQL skills by building a retail sales database, clea
 ![Question 1](Screenshotsq1.png)
 ![Question 2](Screenshotsq2.png)
 ![Question 3](Screenshotsq3.png)
-![Question 4](screenshotsq4.png)
-![Question 5](screenshotsq5.png)
-![Question 6](screenshotsq6.png)
-![Question 7](screenshotsq7.png)
-![Question 8](screenshotsq8.png)
-![Question 9](screenshotsq9.png)
+![Question 4](Screenshotsq4.png)
+![Question 5](Screenshotsq5.png)
+![Question 6](Screenshotsq6.png)
+![Question 7](Screenshotsq7.png)
+![Question 8](Screenshotsq8.png)
+![Question 9](Screenshotsq9.png)
 
 
 
@@ -258,6 +258,7 @@ This project showcases core SQL skills by building a retail sales database, clea
 
 
 Thank you
+
 
 
 
