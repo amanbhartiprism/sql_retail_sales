@@ -216,7 +216,28 @@ This project showcases core SQL skills by building a retail sales database, clea
 
 ## How to Use
 
-1. **Clone or download** this repo  
+1. **Clone or download** this repo    git clone https://github.com/amanbhartiprism/sql_retail_sales.git
+   
+2. **Create database**  
+- Open pgAdmin (or your SQL tool)  
+- Create a new database named `p1_retail_db`
+
+3. **Run table script**  
+- Open `P1.sql`  
+- Execute the `CREATE TABLE` block to create `retail_sales`
+
+4. **Import data**  
+- In your SQL tool, choose “Import” on `retail_sales`  
+- Select `SQL-Retail-Sales-Analysis_utf.csv`  
+- Map columns and import
+
+5. **Execute analysis queries**  
+- Copy each query from `P1.sql` (after data import)  
+- Run them one by one to view results
+
+6. **Explore & modify**  
+- Use provided queries to understand sales trends  
+- Change filters or groupings to ask new questions  
 
 
 ## Author - Aman Bharti
@@ -224,5 +245,6 @@ This project showcases core SQL skills by building a retail sales database, clea
 
 
 Thank you
+
 
 
