@@ -252,11 +252,13 @@ This project showcases core SQL skills by building a retail sales database, clea
 ![Question 9](screenshotsq9.png)
 
 
+
 ## Author - Aman Bharti
 - **LinkedIn**: linkedin.com/in/aman-bharti-aa443b312
 
 
 Thank you
+
 
 
 
