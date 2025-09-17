@@ -241,15 +241,15 @@ This project showcases core SQL skills by building a retail sales database, clea
 
 ## Question Screenshots
 
-![Question 1](screenshotsq1.png)
-![Question 2](screenshotsq2.png)
-![Question 3](screenshotsq3.png)
-![Question 4](screenshotsq4.png)
-![Question 5](screenshotsq5.png)
-![Question 6](screenshotsq6.png)
-![Question 7](screenshotsq7.png)
-![Question 8](screenshotsq8.png)
-![Question 9](screenshotsq9.png)
+![Question 1](screenshot q1.png)
+![Question 2](screenshot q2.png)
+![Question 3](screenshot q3.png)
+![Question 4](screenshot q4.png)
+![Question 5](screenshot q5.png)
+![Question 6](screenshot q6.png)
+![Question 7](screenshot q7.png)
+![Question 8](screenshot q8.png)
+![Question 9](screenshot q9.png)
 
 
 ## Author - Aman Bharti
@@ -257,6 +257,7 @@ This project showcases core SQL skills by building a retail sales database, clea
 
 
 Thank you
+
 
 
 
