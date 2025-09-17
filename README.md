@@ -216,14 +216,13 @@ This project showcases core SQL skills by building a retail sales database, clea
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
-4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+1. **Clone or download** this repo  
+
 
 ## Author - Aman Bharti
 - **LinkedIn**: linkedin.com/in/aman-bharti-aa443b312
 
 
 Thank you
+
 
